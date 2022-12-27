@@ -51,7 +51,7 @@ const updateCalc = value => {
   }
 
   return (
-      <div className="App">*
+      <div className="App">
         <div className="calculator">
            <div className="display">
               {result ? <span>({result})</span> : ''}
